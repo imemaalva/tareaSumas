@@ -1,0 +1,8 @@
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\bin\Debug\tareaSumas.exe.config
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\bin\Debug\tareaSumas.exe
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\bin\Debug\tareaSumas.pdb
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\obj\Debug\tareaSumas.csproj.AssemblyReference.cache
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\obj\Debug\tareaSumas.csproj.SuggestedBindingRedirects.cache
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\obj\Debug\tareaSumas.csproj.CoreCompileInputs.cache
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\obj\Debug\tareaSumas.exe
+C:\Users\imeld\Documents\projects\tareaSumas\tareaSumas\obj\Debug\tareaSumas.pdb
